@@ -1,12 +1,13 @@
 body {
     background-color: cadetblue;
 }
-h1 , h2 {
+h1 , h2 , p {
     text-align: center;
+    color: bisque;
 }
 .container{
     text-align: center;
 }
 .home-image{
-    width: 50%;
+    width: 70%;
 }
