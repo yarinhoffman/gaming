@@ -1,9 +1,9 @@
-body {
-    background-color: cadetblue;
+body , html {
+    background-color: rgb(95, 160, 105);
 }
 h1 , h2 , p {
     text-align: center;
-    color: rgb(255, 206, 196);
+    color: rgb(254, 255, 196);
 }
 .container{
     text-align: center;
